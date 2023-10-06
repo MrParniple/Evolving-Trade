@@ -1,0 +1,53 @@
+<linker>
+	<assembly fullname="TerraformingMars" ignoreIfMissing="1">
+		<type fullname="AsmodeeNet.Store.StoreScreen">
+			<method name="UpdateBuyButtonText"/>
+		</type>
+		<type fullname="AsmodeeNet.UserInterface.ConsoleContentController">
+			<method name="OnServeritySliderValueChanged"/>
+			<method name="OnServeritySliderValueChanged"/>
+		</type>
+		<type fullname="AsmodeeNet.UserInterface.SSO.SSOChooseALoginNamePanel">
+			<method name="ToggleInputFieldContentType"/>
+		</type>
+		<type fullname="AsmodeeNet.UserInterface.SSO.SSOLoginAndPasswordPanel">
+			<method name="OnSelectInputField"/>
+			<method name="OnSelectInputField"/>
+			<method name="OnUnselectInputField"/>
+			<method name="OnUnselectInputField"/>
+			<method name="ToggleInputFieldContentType"/>
+		</type>
+		<type fullname="ChatController">
+			<method name="OnInputStartFocus"/>
+			<method name="OnInputStartFocus"/>
+			<method name="OnInputStartFocus"/>
+			<method name="OnStopFocus"/>
+			<method name="OnStopFocus"/>
+			<method name="OnStopFocus"/>
+		</type>
+		<type fullname="CompendiumScreen">
+			<method name="OnExit"/>
+		</type>
+		<type fullname="HUD_GlobalParameterBar">
+			<method name="OnValueChanged"/>
+			<method name="OnValueChanged"/>
+		</type>
+		<type fullname="LuckyHammers.InputMapping.ShortcutsDisabler">
+			<method name="RevertDisableShortcuts"/>
+		</type>
+		<type fullname="OptionScreen">
+			<method name="OnExtractLogTriggered"/>
+			<method name="OnExtractLogTriggered"/>
+		</type>
+		<type fullname="SliderSettingPanel">
+			<method name="OnValueChanged"/>
+			<method name="OnValueChanged"/>
+			<method name="OnValueChanged"/>
+			<method name="OnValueChanged"/>
+		</type>
+		<type fullname="ViewPlayerCardsScreen">
+			<method name="OnForceClickOnCheckGameStateToggle"/>
+			<method name="OnForceClickOnCheckGameStateToggle"/>
+		</type>
+	</assembly>
+</linker>

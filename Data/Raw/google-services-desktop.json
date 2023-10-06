@@ -1,0 +1,627 @@
+{
+  "project_info": {
+    "project_number": "465082586681",
+    "firebase_url": "https://api-project-465082586681.firebaseio.com",
+    "project_id": "api-project-465082586681",
+    "storage_bucket": "api-project-465082586681.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465082586681:android:d0627225d6aac5c9",
+        "android_client_info": {
+          "package_name": "com.asmodeedigital.carcassonne"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465082586681-3pgiqsmaerh8ach56lrvscnraoqdfnf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABnLIcxMQe3DtsT3FAmpgpx6of-RPLzuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465082586681-3pgiqsmaerh8ach56lrvscnraoqdfnf3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "465082586681-57ob4juj7a6t906t9sadfgmgg9rs70lp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.asmodee-digital.mysterium"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465082586681:android:161750e4d516c21cd7dfe8",
+        "android_client_info": {
+          "package_name": "com.asmodeedigital.coltexpress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465082586681-3pgiqsmaerh8ach56lrvscnraoqdfnf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABnLIcxMQe3DtsT3FAmpgpx6of-RPLzuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465082586681-3pgiqsmaerh8ach56lrvscnraoqdfnf3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "465082586681-57ob4juj7a6t906t9sadfgmgg9rs70lp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.asmodee-digital.mysterium"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465082586681:android:288ea696e353063e",
+        "android_client_info": {
+          "package_name": "com.asmodeedigital.gangoffour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465082586681-3pgiqsmaerh8ach56lrvscnraoqdfnf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABnLIcxMQe3DtsT3FAmpgpx6of-RPLzuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465082586681-3pgiqsmaerh8ach56lrvscnraoqdfnf3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "465082586681-57ob4juj7a6t906t9sadfgmgg9rs70lp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.asmodee-digital.mysterium"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465082586681:android:fbb0a5e8956adae4d7dfe8",
+        "android_client_info": {
+          "package_name": "com.asmodeedigital.mysterium"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465082586681-3pgiqsmaerh8ach56lrvscnraoqdfnf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABnLIcxMQe3DtsT3FAmpgpx6of-RPLzuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465082586681-3pgiqsmaerh8ach56lrvscnraoqdfnf3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "465082586681-57ob4juj7a6t906t9sadfgmgg9rs70lp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.asmodee-digital.mysterium"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465082586681:android:92135d36094e3a28d7dfe8",
+        "android_client_info": {
+          "package_name": "com.asmodeedigital.takenoko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465082586681-3pgiqsmaerh8ach56lrvscnraoqdfnf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABnLIcxMQe3DtsT3FAmpgpx6of-RPLzuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465082586681-3pgiqsmaerh8ach56lrvscnraoqdfnf3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "465082586681-57ob4juj7a6t906t9sadfgmgg9rs70lp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.asmodee-digital.mysterium"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465082586681:android:e5d03f5494d57a97d7dfe8",
+        "android_client_info": {
+          "package_name": "com.asmodeedigital.terraformingmars"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465082586681-3pgiqsmaerh8ach56lrvscnraoqdfnf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABnLIcxMQe3DtsT3FAmpgpx6of-RPLzuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465082586681-3pgiqsmaerh8ach56lrvscnraoqdfnf3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "465082586681-57ob4juj7a6t906t9sadfgmgg9rs70lp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.asmodee-digital.mysterium"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465082586681:android:7c186b3686002ecf",
+        "android_client_info": {
+          "package_name": "com.daysofwonder.smallworld2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465082586681-3pgiqsmaerh8ach56lrvscnraoqdfnf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABnLIcxMQe3DtsT3FAmpgpx6of-RPLzuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465082586681-3pgiqsmaerh8ach56lrvscnraoqdfnf3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "465082586681-57ob4juj7a6t906t9sadfgmgg9rs70lp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.asmodee-digital.mysterium"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465082586681:android:d51ac2c63549c2d6",
+        "android_client_info": {
+          "package_name": "com.daysofwonder.sw2.amazon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465082586681-3pgiqsmaerh8ach56lrvscnraoqdfnf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABnLIcxMQe3DtsT3FAmpgpx6of-RPLzuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465082586681-3pgiqsmaerh8ach56lrvscnraoqdfnf3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "465082586681-57ob4juj7a6t906t9sadfgmgg9rs70lp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.asmodee-digital.mysterium"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465082586681:android:a2782f76e6a201b2",
+        "android_client_info": {
+          "package_name": "com.daysofwonder.sw2.humblebundle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465082586681-3pgiqsmaerh8ach56lrvscnraoqdfnf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABnLIcxMQe3DtsT3FAmpgpx6of-RPLzuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465082586681-3pgiqsmaerh8ach56lrvscnraoqdfnf3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "465082586681-57ob4juj7a6t906t9sadfgmgg9rs70lp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.asmodee-digital.mysterium"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465082586681:android:2448c09f6ec67d89d7dfe8",
+        "android_client_info": {
+          "package_name": "com.daysofwonder.tt.amazon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465082586681-3pgiqsmaerh8ach56lrvscnraoqdfnf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABnLIcxMQe3DtsT3FAmpgpx6of-RPLzuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465082586681-3pgiqsmaerh8ach56lrvscnraoqdfnf3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "465082586681-57ob4juj7a6t906t9sadfgmgg9rs70lp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.asmodee-digital.mysterium"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465082586681:android:492bc028653ee4c9",
+        "android_client_info": {
+          "package_name": "com.daysofwonder.tt.amazonfreetime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465082586681-ovk685irvrcn9fg5naenp44ep3gprat4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.daysofwonder.tt.amazonfreetime",
+            "certificate_hash": "a21ce6cf87bb9be2e22746f4929d379084ecaa33"
+          }
+        },
+        {
+          "client_id": "465082586681-3pgiqsmaerh8ach56lrvscnraoqdfnf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABnLIcxMQe3DtsT3FAmpgpx6of-RPLzuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465082586681-3pgiqsmaerh8ach56lrvscnraoqdfnf3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "465082586681-57ob4juj7a6t906t9sadfgmgg9rs70lp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.asmodee-digital.mysterium"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465082586681:android:35040ab17081a31a",
+        "android_client_info": {
+          "package_name": "com.daysofwonder.tt.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465082586681-2sdhrjnk10qgtreahjvembj36ekc0075.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.daysofwonder.tt.android",
+            "certificate_hash": "bb61b735ec69aa2fca41e2e308632775a3f22192"
+          }
+        },
+        {
+          "client_id": "465082586681-8v4jgd8saalnmupuf0ien1bq2vovev9v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.daysofwonder.tt.android",
+            "certificate_hash": "a21ce6cf87bb9be2e22746f4929d379084ecaa33"
+          }
+        },
+        {
+          "client_id": "465082586681-3pgiqsmaerh8ach56lrvscnraoqdfnf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABnLIcxMQe3DtsT3FAmpgpx6of-RPLzuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465082586681-3pgiqsmaerh8ach56lrvscnraoqdfnf3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "465082586681-57ob4juj7a6t906t9sadfgmgg9rs70lp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.asmodee-digital.mysterium"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465082586681:android:918e665d3da825e2",
+        "android_client_info": {
+          "package_name": "com.daysofwonder.tt.androidPlayLink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465082586681-mnf9b2hpubn0hq30l9ddrn0gi54uvhgr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.daysofwonder.tt.androidPlayLink",
+            "certificate_hash": "a21ce6cf87bb9be2e22746f4929d379084ecaa33"
+          }
+        },
+        {
+          "client_id": "465082586681-3pgiqsmaerh8ach56lrvscnraoqdfnf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABnLIcxMQe3DtsT3FAmpgpx6of-RPLzuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465082586681-3pgiqsmaerh8ach56lrvscnraoqdfnf3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "465082586681-57ob4juj7a6t906t9sadfgmgg9rs70lp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.asmodee-digital.mysterium"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465082586681:android:ace192e61d383e22",
+        "android_client_info": {
+          "package_name": "com.daysofwonder.tt.humblebundle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465082586681-t5biqtghpp9qnb65b14h1aarim3lh9cs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.daysofwonder.tt.humblebundle",
+            "certificate_hash": "a21ce6cf87bb9be2e22746f4929d379084ecaa33"
+          }
+        },
+        {
+          "client_id": "465082586681-3pgiqsmaerh8ach56lrvscnraoqdfnf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABnLIcxMQe3DtsT3FAmpgpx6of-RPLzuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465082586681-3pgiqsmaerh8ach56lrvscnraoqdfnf3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "465082586681-57ob4juj7a6t906t9sadfgmgg9rs70lp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.asmodee-digital.mysterium"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465082586681:android:43a916aaa8c28cf4",
+        "android_client_info": {
+          "package_name": "com.daysofwonder.unitysdkexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465082586681-3pgiqsmaerh8ach56lrvscnraoqdfnf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABnLIcxMQe3DtsT3FAmpgpx6of-RPLzuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465082586681-3pgiqsmaerh8ach56lrvscnraoqdfnf3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "465082586681-57ob4juj7a6t906t9sadfgmgg9rs70lp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.asmodee-digital.mysterium"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465082586681:android:14960925a66d5861",
+        "android_client_info": {
+          "package_name": "com.f2zentertainment.pandemic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465082586681-3pgiqsmaerh8ach56lrvscnraoqdfnf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABnLIcxMQe3DtsT3FAmpgpx6of-RPLzuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465082586681-3pgiqsmaerh8ach56lrvscnraoqdfnf3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "465082586681-57ob4juj7a6t906t9sadfgmgg9rs70lp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.asmodee-digital.mysterium"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
